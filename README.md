@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey, whats up 😏
+My name's Sebastian [16], i'm from Germany 🇩🇪 and am currently doing job training ("Ausbildung") as a developer, where i learn ABAP and UI5.  
 
-<!--
-**Sebbl0508/Sebbl0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fav. Languages
+- Rust 🦀
+- C++ 🔧
+- Python 🐍
 
-Here are some ideas to get you started:
+## More information
+- I like linux... and breaking a working system, just to spend 2h fixing it :P
+- I'm developing Lua scripts for a FiveM RP Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact possibilities
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Sebbl%232222-25?style=for-the-badge&logo=discord" /> </a>
+
+## Misc
+<!--<a href="https://github.com/Sebbl0508"> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebbl0508&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=sebbl0508&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
