@@ -14,7 +14,7 @@ My name's Sebastian [16], i'm from Germany 🇩🇪 and am currently doing job t
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Sebbl%232222-25?style=for-the-badge&logo=discord" /> </a>
 
 ## Misc
-<a href="https://github.com/Sebbl0508">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebbl0508&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    [![Github Stats](https://github-readme-stats.vercel.app/api?username=sebbl0508&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebbl0508&count_private=true&show_icons=true&theme=radical)](https://github.com/Sebbl0508)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=sebbl0508&count_private=true&show_icons=true&theme=radical)](https://github.com/Sebbl0508)
+
