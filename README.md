@@ -1,5 +1,5 @@
 # Hey, whats up 😏
-My name's Sebastian [16], i'm from Germany 🇩🇪 and am currently doing job training ("Ausbildung") as a developer, where i learn ABAP and UI5.  
+My name's Sebastian [16], i'm from Germany and am currently doing job training ("Ausbildung") as a developer, where i learn ABAP and UI5.  
 
 ## Fav. Languages
 - Rust 🦀
