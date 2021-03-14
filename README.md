@@ -7,7 +7,7 @@ My name's Sebastian [16], i'm from Germany 🇩🇪 and am currently doing job t
 - Python 🐍
 
 ## More information
-- I like linux... and breaking a working system, just to spend 2h fixing it :P
+- I like linux <sup>BTW
 - I'm developing Lua scripts for a FiveM RP Server
 
 ## Contact possibilities
