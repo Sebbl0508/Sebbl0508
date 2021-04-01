@@ -7,7 +7,6 @@ My name's Sebastian [16], i'm from Germany and am currently doing job training (
 - Python 🐍
 
 ## More information
-- I like linux <sup>BTW
 - I'm developing Lua scripts for a FiveM RP Server
 
 ## Contact possibilities
